@@ -1,0 +1,22 @@
+{
+    "chatbot"    :   
+    {
+        "id"                :   "chatbot",
+        "useId"             :   true,
+        "version"           :   "1.0.0",
+        "iconImage"         :
+            {
+                "id"            :   "Logo",
+                "path"          :   "http://localhost:8889/images/bot.png",
+                "toolTipText"   :   "Chatbot",
+                "url"           :   "",
+                "visible"       :   true
+            },
+        "projectConnections"      :
+        {
+        }
+    },
+    "environment" :
+		{
+		}
+}  
